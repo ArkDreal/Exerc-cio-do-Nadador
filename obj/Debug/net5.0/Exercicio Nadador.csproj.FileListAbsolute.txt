@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\bin\Debug\net5.0\Exercicio Nadador.exe
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\bin\Debug\net5.0\Exercicio Nadador.deps.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\bin\Debug\net5.0\Exercicio Nadador.runtimeconfig.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\bin\Debug\net5.0\Exercicio Nadador.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\bin\Debug\net5.0\Exercicio Nadador.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\bin\Debug\net5.0\ref\Exercicio Nadador.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\bin\Debug\net5.0\Exercicio Nadador.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\ref\Exercicio Nadador.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicio Nadador\obj\Debug\net5.0\Exercicio Nadador.genruntimeconfig.cache
